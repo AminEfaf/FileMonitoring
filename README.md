@@ -20,19 +20,19 @@ File Monitoring is a simple bash script designed to monitor changes in the files
 
     ```bash
     git clone <repository-url>
-    cd file-monitoring
+    cd Amin
     ```
 
 2. **Make the script executable:**
 
     ```bash
-    chmod +x file_monitoring.sh
+    chmod +x FileManagement.sh
     ```
 
 3. **Run the script:**
 
     ```bash
-    ./file_monitoring.sh
+    ./FileManagement.sh
     ```
 
     The script will start monitoring the current directory. You can modify the script to monitor a specific directory by changing the directory path in the script.
