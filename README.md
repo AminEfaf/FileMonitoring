@@ -26,7 +26,7 @@ File Monitoring is a simple bash script designed to monitor changes in the files
 
     ```bash
     git clone <repository-url>
-    cd Ami
+    cd Amin
     ```
 
 2. **Make the script executable:**
